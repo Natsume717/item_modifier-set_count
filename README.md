@@ -1,0 +1,2 @@
+# item_modifier-set_count
+item_modifierのset_countに関するサンプルになります。
